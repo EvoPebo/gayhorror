@@ -1,4 +1,5 @@
 ---
-layout: home
-# Index page
+Gay Horror: test-site
 ---
+
+this is a test
