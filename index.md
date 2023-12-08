@@ -1,3 +1,5 @@
 ---
-Gay:Horror
+Gay Horror: Comic Blog
 ---
+
+this is a test
