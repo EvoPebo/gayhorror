@@ -1,5 +1,4 @@
 ---
-Gay Horror: Comic Blog
+layout: home
+# Index page
 ---
-
-this is a test
